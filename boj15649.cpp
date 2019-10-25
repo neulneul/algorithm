@@ -7,5 +7,5 @@ int main(){
     cout << "HI" << endl;
     cin >>  a;
     cout << a;
-
+    cin >> a;
 }
